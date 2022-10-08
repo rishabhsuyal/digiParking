@@ -1,0 +1,9 @@
+.container_block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
